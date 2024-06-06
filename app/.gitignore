@@ -1,0 +1,76 @@
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.dylib
+*.so
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+/dist/
+/node_modules/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+._.Trashes
+.AppleDouble
+.LSOverride
+Icon
+.metadata_never_index
+.VolumeIcon.icns
+AppleShare PDS
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+
+# Make files
+Makefile
+makefile
