@@ -9,13 +9,13 @@ The outlook can go in several directions. On the one hand, the division and mult
 
 ## Project Structure
 
-InterpolationApp/
+INTERPOLATIONAPP/
 ├── app/
-│ ├── input_data/ 
+│ ├── input_data/
+│ ├── .gitignore
 │ ├── grayscale.c
-│ ├── grayscale.h 
+│ ├── grayscale.h
 │ ├── interpolate.c
 │ ├── interpolate.h
 │ ├── main.c
 │ └── Makefile
-
