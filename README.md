@@ -8,8 +8,8 @@ The aim was to convert coloured input images into greyscale images and scale the
 The outlook can go in several directions. On the one hand, the division and multiplication that have been implemented for vectorisation can be made even more efficient. The greyscale calculation that runs through once can also be vectorised. On the other hand, there is certainly the possibility of optimising the mathematical formulas. Another idea that could be interesting would be the use of multithreading. This topic still offers many possibilities for optimisation and improvement, although it does not have to be limited to bilinear interpolation.
 
 ## Project Structure
-
-INTERPOLATIONAPP/
+```
+InterpolationApp/
 ├── app/
 │ ├── input_data/
 │ ├── .gitignore
@@ -19,3 +19,4 @@ INTERPOLATIONAPP/
 │ ├── interpolate.h
 │ ├── main.c
 │ └── Makefile
+```
