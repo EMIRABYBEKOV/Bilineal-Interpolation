@@ -20,3 +20,17 @@ InterpolationApp/
 │ ├── main.c
 │ └── Makefile
 ```
+## Getting Started
+
+### Prerequisites
+
+- A C compiler (e.g., `gcc`)
+- Make utility
+
+### Building the Project
+
+To build the project, navigate to the `app` directory and run:
+
+```sh
+make
+```
